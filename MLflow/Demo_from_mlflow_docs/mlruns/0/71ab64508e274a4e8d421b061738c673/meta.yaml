@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HarshithR/PycharmProjects/Ml_development/Data_science_learning_path/MLflow/Demo_from_mlflow_docs/mlruns/0/71ab64508e274a4e8d421b061738c673/artifacts
+end_time: 1707211875907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71ab64508e274a4e8d421b061738c673
+run_name: adaptable-chimp-350
+run_uuid: 71ab64508e274a4e8d421b061738c673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707211872748
+status: 3
+tags: []
+user_id: HarshithR

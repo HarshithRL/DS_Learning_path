@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HarshithR/PycharmProjects/Ml_development/Data_science_learning_path/MLflow/Demo_from_mlflow_docs/mlruns/0/6938e15819bd4bb59ca1da292dfc6b06/artifacts
+end_time: 1707211973793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6938e15819bd4bb59ca1da292dfc6b06
+run_name: kindly-pug-791
+run_uuid: 6938e15819bd4bb59ca1da292dfc6b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707211970581
+status: 3
+tags: []
+user_id: HarshithR

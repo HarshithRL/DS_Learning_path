@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HarshithR/PycharmProjects/Ml_development/Data_science_learning_path/MLflow/Demo_from_mlflow_docs/mlruns/0/34d83cfe014d4a0e8f5d63aca955e868/artifacts
+end_time: 1707211856933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34d83cfe014d4a0e8f5d63aca955e868
+run_name: vaunted-hawk-998
+run_uuid: 34d83cfe014d4a0e8f5d63aca955e868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707211852699
+status: 3
+tags: []
+user_id: HarshithR
